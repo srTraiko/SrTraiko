@@ -1,6 +1,5 @@
 # Hello Everyone! 🐒
 
----
 
 My name is Jesus, i'm from 🇻🇪
 
@@ -12,7 +11,6 @@ My name is Jesus, i'm from 🇻🇪
 
 # Skills
 
----
 
 
 
@@ -26,6 +24,5 @@ My name is Jesus, i'm from 🇻🇪
 
 # Fact
 
----
 
 I like dogs 🐕
