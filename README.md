@@ -20,6 +20,8 @@ My name is Jesus, i'm from 🇻🇪
 
 - Bash
 
+- Vim/Neovim
+
 
 
 # Fact
