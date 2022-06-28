@@ -6,8 +6,8 @@ My name is Jesus, i'm from 🇻🇪
 
 
 - Student
-  
-  
+
+
 
 # Skills
 
@@ -21,6 +21,8 @@ My name is Jesus, i'm from 🇻🇪
 - Bash
 
 - Vim/Neovim
+
+- Git and Github
 
 
 
